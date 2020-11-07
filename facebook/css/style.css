@@ -1,0 +1,134 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+
+.top {
+	background: #f0f2f5;
+	height: 695px;
+	width: 100%;
+}
+
+.logo1 .logo {
+	float: left;
+	margin-top: 177px;
+	margin-left: 157px;
+	height: 106px;
+	width: auto; 
+}
+
+.discription {
+	height: 100px;
+	width: 500px;
+	float: left;
+	font-size: 28px;
+	margin-top: 276px;
+	margin-left: -273.5px;
+	color: #000;
+}
+
+.login {
+	height: 400px;
+	width: 400px
+	background: blue;
+	float: right;
+	margin-right: 205px;
+	margin-top: 135px;
+}
+
+.login h4 {
+	float: left;
+	margin-top: 30px;
+	margin-left: 50px;
+	font-size: 14px;
+}
+
+.p_1 p {
+	float: right;
+	margin-top: 30px;
+	margin-right: 42px;
+	font-size: 15px;
+}
+
+.loginbox {
+	height: 345px;
+	width: 400px;
+	background: #fff;
+	box-sizing: border-box;
+	box-shadow: 0px 0px 5px;
+	border-radius: 7px 7px 7px 7px;
+}
+
+.inputbox {
+	height: 20px;
+	margin-top: 15px;
+	width: 82%;
+	border: 1px solid #dddfe2;
+	border-radius: 5px 5px 5px 5px;
+	font-size: 18px;
+	padding: 15px;
+	color: grey;
+}
+
+.inputbox:hover {
+	border: 1px solid #1877f2;
+}
+
+.submit {
+	height: 50px;
+	margin-top: 15px;
+	width: 90%;
+	border-radius: 5px 5px 5px 5px;
+	border: 1px solid #1877f2;
+	font-size: 19px;
+	padding: 15px;
+	color: #fff;
+	background: #1877f2;
+	font-weight: bold;
+	transition: 0.2s ease;
+}
+
+.submit:hover {
+	background: #166fe5;
+}
+
+.loginbox p {
+	text-align: center;
+	padding: 15px 0px;
+	color: #1877f6;
+	font-size: 15px;
+	cursor: pointer;
+}
+
+hr {
+	width: 90%;
+	float: left;
+	margin-left: 5%;
+	color: #dddfe2;
+}
+
+.crate_ac {
+	height: 47px;
+	margin-top: 28px;
+	width: 50%;
+	border-radius: 5px 5px 5px 5px;
+	border: 1px solid #42b72a;
+	font-size: 17px;
+	padding: 15px;
+	color: #fff;
+	background: #42b72a;
+	font-weight: bold;
+	transition: 0.2s ease;
+}
+
+.crate_ac:hover {
+	background: #36a420;
+}
+
+.buttom {
+	height: 180px;
+	background: blue;
+	width: 100%;
+	background: url(../images/buttom.jpg);
+}
