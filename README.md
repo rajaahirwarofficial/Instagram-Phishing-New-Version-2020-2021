@@ -12,4 +12,4 @@ Instagram Phishing New Version 2020-2021
    
         Link -:  https://www.payumoney.com/paybypayumoney/#/B417AE12E63B634CFCA466275E2F17B5
 
-         BTC  -:  3GRFNifUZJBii8nn8jcsYrCwHk3vA27gcd   
+        ₿   BTC  -:  3GRFNifUZJBii8nn8jcsYrCwHk3vA27gcd   
