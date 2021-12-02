@@ -6,6 +6,8 @@ Instagram Phishing New Version 2020-2021
               How you use this information is your responsibility.
 
              I will not be held accountable for any illegel activities.
+             
+ Live Demo -: <a href="https://rajaahirwarofficial.github.io/Instagram-Phishing-New-Version-2020-2021/">View</a>
 
                                𝐃𝐨𝐧𝐚𝐭𝐞 & 𝐒𝐮𝐩𝐩𝐨𝐫𝐭   
 
